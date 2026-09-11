@@ -2,11 +2,16 @@
 <contentList> <!-- This is the file that defines the localization, aka the actual text that shows up in game. -->
 
 	<!--Base race loca-->
-	<content contentuid="hdf502bafg2939g4569g820bg200792707f93" version="1">Custom Race</content> <!-- The Name of the custom race. Regenerate this handle before releasing the mod! -->
-	<content contentuid="h8c7f32e9ga38ag4a4dg95f5g84300a7a48a8" version="1">This custom race is brimming with potential.</content> <!-- The Description of the custom race. Regenerate this handle before releasing the mod! -->
+	<content contentuid="" version="1">Warforged</content>
+	<content contentuid="" version="1">The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.</content> 
 	
 	<!--Subraces loca-->
-
+	<content contentuid="" version="1">.</content>
+	<content contentuid="" version="1">.</content>
+	<content contentuid="" version="1">.</content> 
+	<content contentuid="" version="1">.</content> 
+	<content contentuid="" version="1">.</content>
+	<content contentuid="" version="1">.</content> 
 	<!--Passives loca-->
 
 </contentList>
