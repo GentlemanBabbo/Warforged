@@ -5,15 +5,15 @@
     <node id="root">
       <children>
         <node id="Race"> <!-- Main Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="hdf502bafg2939g4569g820bg200792707f93" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="h8c7f32e9ga38ag4a4dg95f5g84300a7a48a8" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
-            <attribute id="Name" type="FixedString" value="Community_MainRace" /> <!-- Internal name for race, doesn't affect anything in-game -->
+            <attribute id="Name" type="FixedString" value="Warforged" /> <!-- Internal name for race, doesn't affect anything in-game -->
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid Parent ID, this connects the entry to the humanoid race entry in the vanilla Races file.-->
-            <attribute id="ProgressionTableUUID" type="guid" value="78cb9632-c52c-47d6-8588-4779228fc892" /> <!-- Custom Race Progression table, regenerate before releasing mod! -->
+            <attribute id="ProgressionTableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> <!-- Custom Race Progression table, regenerate before releasing mod! -->
             <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/> <!-- Default underwear for the race -->
             <attribute id="RaceSoundSwitch" type="FixedString" value="Human" /> <!-- Sound made when selecting the race -->
-            <attribute id="UUID" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" /> <!-- Unique Race UUID, regenerate before releasing mod! -->
+            <attribute id="UUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Unique Race UUID, regenerate before releasing mod! -->
                 <children> <!-- Most of the colors and visuals that the race can choose from in CC, such as eye color, hair color, hairs, and beards. -->
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="b3ff0d4e-50c3-442e-3d8b-e30a5cf73368" />
@@ -1936,15 +1936,37 @@
                 </children>
         </node>
         <node id="Race"> <!-- Sub Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="h687c2b71g292eg4e12gbce8g29fb2edeceeb" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="h3ed7c5e5gb17ag4b3dg8787g9663e1129dd9" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
-            <attribute id="Name" type="FixedString" value="Community_SubRace" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
-            <attribute id="ParentGuid" type="guid" value="3328d981-bf97-4e50-8961-fef8cd80c67e" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
-            <attribute id="ProgressionTableUUID" type="guid" value="ace6567b-ae51-474b-8643-136d0c1246a1" /> <!-- Sub Race Progression table, regenerate before releasing mod! -->
+            <attribute id="Name" type="FixedString" value="Envoy" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
+            <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
+            <attribute id="ProgressionTableUUID" type="guid" value="ce0d8e2c-cfd8-4ae1-9e9d-2f3916d261f0" /> <!-- Sub Race Progression table, regenerate before releasing mod! -->
             <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/> <!-- Default underwear for the sub race -->
             <attribute id="RaceSoundSwitch" type="FixedString" value="Human" /> <!-- Sound made when selecting the sub race -->
-            <attribute id="UUID" type="guid" value="728faa82-273a-4dd1-a832-f776dbe331b7" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
+            <attribute id="UUID" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
+        </node>
+        <node id="Race"> <!-- Sub Race -->
+            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
+            <attribute id="Name" type="FixedString" value="Juggernaut" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
+            <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
+            <attribute id="ProgressionTableUUID" type="guid" value="623562cc-0d03-43bc-94f0-bbd977fdee89" /> <!-- Sub Race Progression table, regenerate before releasing mod! -->
+            <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/> <!-- Default underwear for the sub race -->
+            <attribute id="RaceSoundSwitch" type="FixedString" value="Human" /> <!-- Sound made when selecting the sub race -->
+            <attribute id="UUID" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
+        </node>
+        <node id="Race"> <!-- Sub Race -->
+            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
+            <attribute id="Name" type="FixedString" value="Skirmisher" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
+            <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
+            <attribute id="ProgressionTableUUID" type="guid" value="99b8748f-f41f-4b27-ba5d-5bea68a19932" /> <!-- Sub Race Progression table, regenerate before releasing mod! -->
+            <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Humans"/> <!-- Default underwear for the sub race -->
+            <attribute id="RaceSoundSwitch" type="FixedString" value="Human" /> <!-- Sound made when selecting the sub race -->
+            <attribute id="UUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
         </node>
       </children>
     </node>
