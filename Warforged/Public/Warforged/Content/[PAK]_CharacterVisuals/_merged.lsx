@@ -19,7 +19,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="23d08caf-f88d-0457-6253-8059fdf027d3" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -183,7 +183,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="c66f5672-e40c-1da4-0bfe-2947e5a5cd0d" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
