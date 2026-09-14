@@ -11,6 +11,7 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
+					<attribute id="Stats" type="FixedString" value="HeroWarforgedFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0c38ae37-9d41-4864-ad48-ed68e4654926" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- The Unique Race UUID from races.lsx -->
 					<children>
