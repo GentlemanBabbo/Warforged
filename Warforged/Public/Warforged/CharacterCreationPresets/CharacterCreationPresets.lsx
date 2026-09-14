@@ -12,7 +12,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_FS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_FS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="a72898cb-1052-4d25-a762-ca81ebc1e035"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="7d3088ca-044c-461d-bc99-b36e4cf01842"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
@@ -24,7 +24,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_MS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_MS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="bb4c8208-1e15-4e89-b203-8bb7963fd354"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="76a4fac6-8262-4e3b-9f12-a3fb1ee7c132"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
@@ -37,7 +37,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_FS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_FS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="78ed4c9c-c116-4bd3-900f-c5ac34d15feb"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="d8b00f50-74ae-4a81-b4df-b5a5226ecccc"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
@@ -49,7 +49,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_MS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_MS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="279b5170-c924-4b72-915f-8a6267ebf909"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="7721453f-dbdc-4176-9fae-b7e54a345e9a"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
@@ -62,7 +62,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_FS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_FS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="c8d647a3-93af-43e3-98a1-ba142846f0eb"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="7b101945-1358-4989-b76b-dbb036ae44e8"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
@@ -74,7 +74,7 @@
                     <attribute id="CloseUpB" type="LSString" value="ELF_MS_Camera_Closeup_B"/> <!-- ^ -->
                     <attribute id="Overview" type="LSString" value="ELF_MS_Camera_Overview_A"/> <!-- ^ -->
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
-                    <attribute id="RootTemplate" type="guid" value=""/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="898a65f4-f39c-4eb9-8108-92e223b58436"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
                     <attribute id="UUID" type="guid" value="2728f1e0-8251-4dee-a26c-936a1f48294d"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
