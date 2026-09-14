@@ -49,7 +49,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> 
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
 						</node>
 					</children>
 				</node>
@@ -101,6 +101,11 @@
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Female Envoy -->
@@ -148,7 +153,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
 						</node>
 					</children>
 				</node>
@@ -200,6 +205,11 @@
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Female Juggernaut -->
@@ -247,7 +257,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
 						</node>
 					</children>
 				</node>
@@ -299,6 +309,11 @@
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Female Skirmisher -->
@@ -346,7 +361,7 @@
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
-							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type.-->
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
 						</node>
 					</children>
 				</node>
@@ -397,6 +412,11 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" />
+						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" /> 
 						</node>
 					</children>
 				</node>
