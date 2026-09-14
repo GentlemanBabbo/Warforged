@@ -10,13 +10,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0c38ae37-9d41-4864-ad48-ed68e4654926" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- The Unique Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="29624f30-1719-4a7b-ae78-fe3ccdbf794e" />
 								</node>
 							</children>
 						</node>
@@ -30,13 +30,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="85633d7d-0b5a-4c19-926d-f7b566462bf1" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- The Unique Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="29624f30-1719-4a7b-ae78-fe3ccdbf794e" />
 								</node>
 							</children>
 						</node>
@@ -50,13 +50,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="c6e16e66-2313-4a49-b0e7-1e38e7f25987" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="24433acc-939b-492a-943e-59033d131f62" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="45f46fe2-e14a-4961-8f62-7f7bf94a4d96" />
 								</node>
 							</children>
 						</node>
@@ -70,13 +70,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e95e6d81-8ffa-4f63-b16d-19e30c2afe61" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="45f46fe2-e14a-4961-8f62-7f7bf94a4d96" />
 								</node>
 							</children>
 						</node>
@@ -90,13 +90,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="09127e7b-3575-4a1b-a91b-9a102af4da97" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="ac34f8ba-5ba6-44c5-86f9-e055b8507f17" />
 								</node>
 							</children>
 						</node>
@@ -110,13 +110,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="ac34f8ba-5ba6-44c5-86f9-e055b8507f17" />
 								</node>
 							</children>
 						</node>
@@ -130,13 +130,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="93a81280-2b19-4fc8-9e4c-e46b1ac84fb5" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="7301b0a4-8a46-4bc9-b8bc-84e89524bad8" />
 								</node>
 							</children>
 						</node>
@@ -150,13 +150,13 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="48c09f41-f9db-4ad6-8aec-4db6482294fa" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
 						<node id="Tags"> <!-- Add any tags you want here, including custom tags. -->
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="00000000-0000-0000-0000-000000000000" />
+									<attribute id="Object" type="guid" value="7301b0a4-8a46-4bc9-b8bc-84e89524bad8" />
 								</node>
 							</children>
 						</node>
