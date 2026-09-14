@@ -2263,14 +2263,15 @@
 		<node id="VisualBank">
 			<children>
 				<node id="Resource">
-					<!--CHANGE TO MS: <attribute id="AttachBone" type="FixedString" value="" />
+					<!--CHANGE TO MS PARAMETERS-->
+					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f38e4fdf-8a8f-46b8-be37-480cb6eba5a6" />
 					<attribute id="BoundsMax" type="fvec3" value="0.13049719 1.5157297 0.10497003" />
 					<attribute id="BoundsMin" type="fvec3" value="-0.130497 1.1641027 -0.18532549" />
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
-					<attribute id="HairType" type="uint8" value="0" /> -->
+					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="50edc298-0c25-4373-ad84-34666694ac4b" />
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="DID_M_Head_A" />
