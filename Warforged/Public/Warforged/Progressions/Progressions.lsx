@@ -67,7 +67,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Envoy" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -77,7 +77,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Envoy" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -87,7 +87,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Envoy" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -97,7 +97,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="9" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Envoy" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -107,8 +107,8 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Juggernaut" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+				  <attribute id="Boosts" type="LSString" value="" />
+                  <attribute id="PassivesAdded" type="LSString" value="Passive_IronGiant" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
                   <attribute id="TableUUID" type="guid" value="623562cc-0d03-43bc-94f0-bbd977fdee89" /> Always use this one for races.lsx, says this progression node is for Main Race
@@ -117,7 +117,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Juggernaut" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -127,7 +127,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="9" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Juggernaut" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -137,7 +137,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Skirmisher" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -147,7 +147,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="5" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Skirmisher" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
@@ -157,7 +157,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="9" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Skirmisher" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="" />
+				  <attribute id="Boosts" type="LSString" value="" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
