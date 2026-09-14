@@ -2286,7 +2286,8 @@
 					<attribute id="Template" type="FixedString" valueGenerated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
-						<!--REPLACE THIS: <node id="AnimationSetOverrides">
+						<!--REPLACE THE ANIMATIONS HERE-->
+						<node id="AnimationSetOverrides">
 							<attribute id="PairElement1" type="guid" value="b6aa23c3-c96d-42d5-8ffa-8d441d18faa7" />
 							<attribute id="PairElement2" type="FixedString" value="f4ead328-66b0-35c8-4c30-319ce28fa36f" />
 							<attribute id="strAnimationSetOverrideType" type="int32" value="0" />
@@ -2300,7 +2301,7 @@
 						<node id="AnimationWaterfall">
 							<attribute id="Object" type="FixedString" value="dd4d3b25-d89b-0e61-6b8c-3e9e9c71c0bb" />
 						</node>
-						<node id="Base" /> -->
+						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f9db447b-0cd9-4f0b-8331-19758cfe2580" />
