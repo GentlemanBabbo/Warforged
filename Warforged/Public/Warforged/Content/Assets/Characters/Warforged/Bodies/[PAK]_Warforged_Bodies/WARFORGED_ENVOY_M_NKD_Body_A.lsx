@@ -517,7 +517,7 @@
 					<attribute id="ID" type="FixedString" value="936cbcd6-8dfd-490b-9b30-d9c51f3c674c" />
 					<attribute id="Name" type="LSString" value="Warforged_Envoy_M_Body_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_Body_A_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_Body_A_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_Envoy_M_Body_A_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -530,7 +530,7 @@
 					<attribute id="ID" type="FixedString" value="390b941e-8383-4f00-b4b7-f9354ac2f3df" />
 					<attribute id="Name" type="LSString" value="Warforged_Envoy_M_Body_A_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_Body_A_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_Body_A_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_Envoy_M_Body_A_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -543,7 +543,7 @@
 					<attribute id="ID" type="FixedString" value="41d2cb3b-9e09-4f01-b525-ea5a7b5d26e1" />
 					<attribute id="Name" type="LSString" value="Warforged_Envoy_M_Body_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_Body_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_Body_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_Envoy_M_Body_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -556,7 +556,7 @@
 					<attribute id="ID" type="FixedString" value="9cf7873d-2ffb-41d2-b537-1d8fc3130fd0" />
 					<attribute id="Name" type="LSString" value="Warforged_Envoy_M_Body_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_Body_A_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_Body_A_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_Envoy_M_Body_A_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -569,7 +569,7 @@
 					<attribute id="ID" type="FixedString" value="78ce531c-4bec-4c43-a898-87e11a27a2d8" />
 					<attribute id="Name" type="LSString" value="Warforged_Envoy_M_Body_A_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_Body_A_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_Body_A_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_Envoy_M_Body_A_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -603,9 +603,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="84afe2c6-7201-0f74-edea-7ff93f7c6597" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_NKD_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_NKD_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_M_Body/Warforged_Envoy_M_NKD_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Body/Envoy_Bodies/Warforged_Envoy_M_NKD_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 					<children>
 						<node id="Base" />
