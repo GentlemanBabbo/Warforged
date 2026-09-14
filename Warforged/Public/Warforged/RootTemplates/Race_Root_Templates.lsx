@@ -99,7 +99,7 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="Stats" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="HeroJuggernautFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="09127e7b-3575-4a1b-a91b-9a102af4da97" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
@@ -121,7 +121,7 @@
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
-					<attribute id="Stats" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="HeroJuggernautMale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
 					<attribute id="Race" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- The Unique Sub Race UUID from races.lsx -->
 					<children>
