@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects"> <!-- Warforged Base Female -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="61804a62-abad-4b99-bfeb-59a74ef84c09" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Warforged_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -25,7 +25,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Warforged Base Male -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="e95e4b8e-ca4b-43bb-a7ea-c67bf7a09b9d" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -45,7 +45,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Envoy Sub Race Female -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="a72898cb-1052-4d25-a762-ca81ebc1e035" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Envoy_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -65,7 +65,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Envoy Sub Race Male -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="bb4c8208-1e15-4e89-b203-8bb7963fd354" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Envoy_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -85,7 +85,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Juggernaut Sub Race Female -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="78ed4c9c-c116-4bd3-900f-c5ac34d15feb" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Juggernaut_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -105,7 +105,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Sub Race Male -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="279b5170-c924-4b72-915f-8a6267ebf909" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Juggernaut_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -125,7 +125,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Sub Race Male -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="c8d647a3-93af-43e3-98a1-ba142846f0eb" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Skirmisher_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
@@ -145,7 +145,7 @@
 					</children>
 				</node>
 				<node id="GameObjects"> <!-- Sub Race Male -->
-					<attribute id="MapKey" type="FixedString" value="" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
+					<attribute id="MapKey" type="FixedString" value="898a65f4-f39c-4eb9-8108-92e223b58436" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
 					<attribute id="Name" type="LSString" value="Skirmisher_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
 					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
