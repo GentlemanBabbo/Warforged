@@ -23,21 +23,9 @@
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="03Hair" />
-											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="72f56d86-89a0-d8e3-b3ba-c35c2cee61bc" /> <!-- Material UUID for hair color. -->
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="05Makeup" />
-											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" /> <!-- Material UUID for makeup selection. -->
 										</node>
 									</children>
 								</node> <!-- Parameters below are for materials that apply to this body type. -->
@@ -158,11 +146,6 @@
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="6bcb9954-7418-d234-2509-009d4892039e" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type.-->
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Private Parts" />
 							<attribute id="VisualResource" type="FixedString" value="338ced1c-058d-95ec-bb6a-074d48de0d29" /> <!--Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the private parts you want to be the default when loading the race and body type.-->
 						</node>
@@ -184,12 +167,6 @@
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
 											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
-										</node>
-										<node id="Object">
-											<attribute id="ForcePresetValues" type="bool" value="True" />
-											<attribute id="GroupName" type="FixedString" value="03Hair" />
-											<attribute id="MapKey" type="FixedString" value="03Hair" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="90a01929-a5ef-01a7-c22d-000245888f0e" /> <!-- Material UUID for hair color. -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -466,11 +443,6 @@
 							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
 							<attribute id="VisualResource" type="FixedString" value="04649972-9e6b-1511-337e-74977ed693b0" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the modesty leaf (lower) you want to be the default when loading the race and body type. -->
-						</node>
-						<node id="Slots">
-							<attribute id="Bone" type="FixedString" value="" />
-							<attribute id="Slot" type="FixedString" value="Hair" />
-							<attribute id="VisualResource" type="FixedString" value="0d1b6322-1e78-e5aa-866d-ac7b98a25a38" /> <!-- Matched to the CharacterCreationAppearanceVisuals file using the VisualResource UUID. Use the UUID associated with the hair you want to be the default when loading the race and body type. -->
 						</node>
 					</children>
 				</node>
