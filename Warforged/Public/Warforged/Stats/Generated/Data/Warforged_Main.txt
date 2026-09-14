@@ -1,0 +1,38 @@
+<!--Warforged Passives-->
+
+new entry "Passive_WAR_PoisonResilience"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";2"
+data "Icon" "PassiveFeature_Duergar_DuergarResilience"
+data "Properties" "Highlighted"
+data "Boosts" "Resistance(Poison,Resistant)"
+
+new entry "Passive_WAR_DiseaseImmunity"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";2"
+data "Icon" "PassiveFeature_Duergar_DuergarResilience"
+data "Properties" "Highlighted"
+data "Boosts" "Resistance(Poison,Resistant)" <!--Switch to Disease Immunity-->
+
+<!--Warforged Spells-->
+
+
+
+<!--Envoy Passives-->
+
+
+<!--Envoy Spells-->
+
+
+<!--Juggernaut Passives-->
+
+
+<!--Juggernaut Spells-->
+
+
+<!--Skirmisher Passives-->
+
+
+<!--Skirmisher Spells-->
