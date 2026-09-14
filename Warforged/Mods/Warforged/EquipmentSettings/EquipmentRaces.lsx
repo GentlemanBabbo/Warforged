@@ -14,7 +14,7 @@
 					<attribute id="Name" type="FixedString" value="Warforged Strong Male" />
 					<attribute id="Guid" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />
 					<attribute id="DefaultParent" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
-					<attribute id="CharacterVisual" type="guid" value="" />
+					<attribute id="CharacterVisual" type="guid" value="85633d7d-0b5a-4c19-926d-f7b566462bf1" />
 				</node>
 			</children>
 		</node>
