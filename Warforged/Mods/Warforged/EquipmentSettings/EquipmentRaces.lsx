@@ -8,7 +8,7 @@
 					<attribute id="Name" type="FixedString" value="Warforged Strong Female" />
 					<attribute id="Guid" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />
 					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
-					<attribute id="CharacterVisual" type="guid" value="" />
+					<attribute id="CharacterVisual" type="guid" value="0c38ae37-9d41-4864-ad48-ed68e4654926" />
 				</node>
 				<node id="EquipmentRace">
 					<attribute id="Name" type="FixedString" value="Warforged Strong Male" />
