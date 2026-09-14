@@ -7,7 +7,7 @@
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="1" /> which level the progression is for
                   <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
-					        <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
+				  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
                   <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
                   <attribute id="Selectors" type="LSString" value="SelectSkills(057c23ea-3c21-49d3-b9f8-f5b97890d8ce,2)" />see below for explanation
                   <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
