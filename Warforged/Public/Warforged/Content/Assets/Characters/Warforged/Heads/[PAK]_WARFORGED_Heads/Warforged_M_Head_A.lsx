@@ -15,9 +15,9 @@
 					<attribute id="PreviewVisualResource" type="FixedString" value="" />
 					<attribute id="RagdollResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A_base.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_NKD_Head_A_base.GR2" />
 					<attribute id="SpringResourceID" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A_base.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_NKD_Head_A_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
 						<!--REPLACE THIS: <node id="Bones">
@@ -2197,7 +2197,7 @@
 					<attribute id="ID" type="FixedString" value="ff17c164-afb2-49dd-a12f-e653dde20a96" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Envoy_Head_A_BM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_Envoy_Head_A_BM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_Envoy_Head_A_BM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_M_Envoy_Head_A_BM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2210,7 +2210,7 @@
 					<attribute id="ID" type="FixedString" value="56d7f723-3c22-432a-8bec-ac703bdbc94a" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Envoy_Head_A_CLEA" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_Envoy_Head_A_CLEA.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_Envoy_Head_A_CLEA.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_M_Envoy_Head_A_CLEA" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2223,7 +2223,7 @@
 					<attribute id="ID" type="FixedString" value="f9745e41-7054-49fd-803c-d7a3b28e5bec" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Envoy_Head_A_MSK" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_Envoy_Head_A_MSK.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_Envoy_Head_A_MSK.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_M_Envoy_Head_A_MSK" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2236,7 +2236,7 @@
 					<attribute id="ID" type="FixedString" value="05fe8bde-8534-4ce9-838c-11233993e5b5" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Envoy_Head_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_Envoy_Head_A_NM.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_Envoy_Head_A_NM.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_M_Envoy_Head_A_NM" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2249,7 +2249,7 @@
 					<attribute id="ID" type="FixedString" value="8e491a26-e468-409e-8905-ff5f3979ea39" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Envoy_Head_A_HMVY" />
 					<attribute id="SRGB" type="bool" value="False" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_Envoy_Head_A_HMVY.DDS" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_Envoy_Head_A_HMVY.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Warforged_M_Envoy_Head_A_HMVY" />
 					<attribute id="Type" type="int32" value="1" />
@@ -2282,9 +2282,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="1" />
 					<attribute id="Slot" type="FixedString" value="Head" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_NKD_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/Warforged_M_NKD_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<!--REPLACE THE ANIMATIONS HERE-->
