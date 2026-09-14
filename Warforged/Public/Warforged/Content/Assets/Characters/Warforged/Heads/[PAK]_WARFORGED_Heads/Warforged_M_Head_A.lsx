@@ -2284,7 +2284,7 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" valueGenerated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Head/Warforged_M_NKD_Head_A.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725665" />
 					<children>
 						<!--REPLACE THE ANIMATIONS HERE-->
