@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value=""/> the passive list
+                    <attribute id="Passives" type="LSString" value="Passive_WAR_PoisonResilience"/> the passive list
                     <attribute id="UUID" type="guid" value="c5125ed8-4cdd-4a3f-8303-a34aeece5aa4"/> the UUID, needs to be unique
                 </node>
             </children>
