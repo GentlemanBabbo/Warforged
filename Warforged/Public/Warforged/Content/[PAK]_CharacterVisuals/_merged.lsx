@@ -31,7 +31,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="62b1c4c9-a8d4-3132-b3a6-1e3294a6551a" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -195,7 +195,7 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="62b1c4c9-a8d4-3132-b3a6-1e3294a6551a" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
