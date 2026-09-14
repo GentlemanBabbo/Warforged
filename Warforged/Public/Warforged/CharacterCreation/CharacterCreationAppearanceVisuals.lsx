@@ -8,13 +8,12 @@
 				<node id="CharacterCreationAppearanceVisual"> Warforged M - A
 					<attribute id="BodyShape" type="uint8" value="1"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					<attribute id="IconIdOverride" type="FixedString" value=""/><!-- Matches the Map Key for the corresponding icon in ModName_Icons.lsx - I usually just take the hair's VisualResource UUID and stick a 0_Hair_ in front of it -->
-          <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/>
+			    	<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+          			<attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/>
 					<attribute id="SlotName" type="FixedString" value="Head"/>
-					<attribute id="UUID" type="guid" value="f3e4c698-76b4-409f-86d9-6e8e9e2d0407"/> <!--Unique UUID -->
+					<attribute id="UUID" type="guid" value="f3e4c698-76b4-409f-86d9-6e8e9e2d0407"/>
 					<attribute id="VisualResource" type="guid" value="50edc298-0c25-4373-ad84-34666694ac4b"/>
-					<!--^ This UUID must match the one in the head merged.lsf or the custom name you give it-->
 				</node>
 		<!--Female Warforged Heads-->
 
@@ -22,7 +21,7 @@
 
 		<!--Hair-->
 				<!--male-->
-        <!--female-->
+        		<!--female-->
           
     <!--Genitals-->
         <!--Fake Genitals-->
