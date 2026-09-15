@@ -1854,7 +1854,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="05fe8bde-8534-4ce9-838c-11233993e5b5" />
+							<attribute id="ID" type="FixedString" value="e1d9ffd8-f471-4438-8198-33f63ebee2b5" />
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
@@ -1956,7 +1956,7 @@
 							<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 							<attribute id="ID" type="FixedString" value="ff17c164-afb2-49dd-a12f-e653dde20a96" />
@@ -2218,7 +2218,7 @@
 				<node id="Resource">
 					<attribute id="Depth" type="int32" value="1" />
 					<attribute id="Height" type="int32" value="4096" />
-					<attribute id="ID" type="FixedString" value="05fe8bde-8534-4ce9-838c-11233993e5b5" />
+					<attribute id="ID" type="FixedString" value="e1d9ffd8-f471-4438-8198-33f63ebee2b5" />
 					<attribute id="Name" type="LSString" value="WARFORGED_M_ENVOY_HEAD_A_NM" />
 					<attribute id="SRGB" type="bool" value="False" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/WARFORGED_M_ENVOY_HEAD_A_NM.DDS" />
