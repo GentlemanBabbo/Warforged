@@ -20,7 +20,6 @@
 					<attribute id="Template" type="FixedString" value="Generated/Public/Warforged/[PAK]_Warforged_Heads/WARFORGED_M_ENVOY_HEAD_A_base.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144396663052566828" />
 					<children>
-					<children>
 						<node id="Bones">
 							<attribute id="MapKey" type="FixedString" value="wrinkle_01" />
 							<children>
