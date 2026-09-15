@@ -55,7 +55,7 @@
 				</node>
 				<node id="Resource"> <!-- Race Male Standard -->
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BodySetVisual" type="FixedString" value="8e79a472-c9d7-4942-a8af-08e3f3b49529" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="85633d7d-0b5a-4c19-926d-f7b566462bf1" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
@@ -159,7 +159,7 @@
 				</node>
 				<node id="Resource"> <!-- Race Male Envoy -->
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BodySetVisual" type="FixedString" value="8e79a472-c9d7-4942-a8af-08e3f3b49529" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="e95e6d81-8ffa-4f63-b16d-19e30c2afe61" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Envoy" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
@@ -263,7 +263,7 @@
 				</node>
 				<node id="Resource"> <!-- Race Male Juggernaut -->
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BodySetVisual" type="FixedString" value="8e79a472-c9d7-4942-a8af-08e3f3b49529" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Juggernaut" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
@@ -367,7 +367,7 @@
 				</node>
 				<node id="Resource"> <!-- Race Male Skirmisher -->
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BodySetVisual" type="FixedString" value="8e79a472-c9d7-4942-a8af-08e3f3b49529" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Skirmisher" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
