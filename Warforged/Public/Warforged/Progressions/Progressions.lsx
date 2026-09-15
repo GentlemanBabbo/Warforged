@@ -5,34 +5,34 @@
     <node id="root">                 
       <children>
         <node id="Progression">
-                  <attribute id="Level" type="uint8" value="1" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
+          <attribute id="Level" type="uint8" value="1" /> which level the progression is for
+          <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
 				  <attribute id="Boosts" type="LSString" value="ActionResource(Movement,9,0)" />
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="SelectSkills(057c23ea-3c21-49d3-b9f8-f5b97890d8ce,2)" />see below for explanation
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="7e643a8f-36d9-469e-b813-ff541b8003d2" />  this one must be unique
+          <attribute id="PassivesAdded" type="LSString" value="Passive_WAR_PoisonResilience;Passive_WAR_DiseaseImmunity" /> passives from stats folder here
+          <attribute id="Selectors" type="LSString" value="SelectSkills(057c23ea-3c21-49d3-b9f8-f5b97890d8ce,2)" />see below for explanation
+          <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+          <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
+          <attribute id="UUID" type="guid" value="7e643a8f-36d9-469e-b813-ff541b8003d2" />  this one must be unique
           </node>
         <node id="Progression">
-                  <attribute id="Level" type="uint8" value="3" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="11e883e8-3724-478d-96f5-580967ce393e" />  this one must be unique
+          <attribute id="Level" type="uint8" value="3" /> which level the progression is for
+          <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
+          <attribute id="Boosts" type="LSString" value="" /> 
+          <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+          <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+          <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+          <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
+          <attribute id="UUID" type="guid" value="11e883e8-3724-478d-96f5-580967ce393e" />  this one must be unique
           </node>
         <node id="Progression">
-                  <attribute id="Level" type="uint8" value="5" /> which level the progression is for
-                  <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
-                  <attribute id="Boosts" type="LSString" value="" /> 
-                  <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
-                  <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
-                  <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
-                  <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
-                  <attribute id="UUID" type="guid" value="f58bd5ca-9b06-4923-8bf7-148896723af3" />  this one must be unique
+          <attribute id="Level" type="uint8" value="5" /> which level the progression is for
+          <attribute id="Name" type="LSString" value="Warforged" /> just an internal name
+          <attribute id="Boosts" type="LSString" value="" /> 
+          <attribute id="PassivesAdded" type="LSString" value="" /> passives from stats folder here
+          <attribute id="Selectors" type="LSString" value="" /> this is a single spell being added
+          <attribute id="ProgressionType" type="uint8" value="2" /> 2 means race
+          <attribute id="TableUUID" type="guid" value="512100b8-fae9-44e6-a38d-e8193bcb6824" /> Always use this one for races.lsx, says this progression node is for Main Race
+          <attribute id="UUID" type="guid" value="f58bd5ca-9b06-4923-8bf7-148896723af3" />  this one must be unique
           </node>
         <node id="Progression">
                   <attribute id="Level" type="uint8" value="7" /> which level the progression is for

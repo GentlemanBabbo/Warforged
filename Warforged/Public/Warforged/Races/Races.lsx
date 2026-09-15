@@ -5,8 +5,8 @@
     <node id="root">
       <children>
         <node id="Race"> <!-- Main Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="h23973a6344d7444895a7c697ece4225bad6c" version="1" /> <!-- Display name for the race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="h42da82fe4092476d88d75ac453f9b301e442" version="1" /> <!-- Description for the race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
             <attribute id="Name" type="FixedString" value="Warforged" /> <!-- Internal name for race, doesn't affect anything in-game -->
             <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid Parent ID, this connects the entry to the humanoid race entry in the vanilla Races file.-->
@@ -2121,8 +2121,8 @@
                 </children>
         </node>
         <node id="Race"> <!-- Sub Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="h52e46f93816e43c89815ab6830e6d8130288" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="ha9a78399b5aa47ad80bf13e95c2a2af12239" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
             <attribute id="Name" type="FixedString" value="Envoy" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
             <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
@@ -2132,8 +2132,8 @@
             <attribute id="UUID" type="guid" value="7e3c6b60-03ef-401b-a0aa-0faf17324941" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
         </node>
         <node id="Race"> <!-- Sub Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="hd717bcadcd66439d800390959ce06e26864g" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="hc95be134519e42d2b5e8f4ecc42e0f881c95" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
             <attribute id="Name" type="FixedString" value="Juggernaut" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
             <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
@@ -2143,8 +2143,8 @@
             <attribute id="UUID" type="guid" value="de549c8c-f0dd-4791-a820-94a4f27faa61" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
         </node>
         <node id="Race"> <!-- Sub Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="DisplayName" type="TranslatedString" handle="h18f9bd0037ce4851a5d228f919a340947e00" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
+            <attribute id="Description" type="TranslatedString" handle="h11c542ab29cd49e381ed8766839749aba55d" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
             <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
             <attribute id="Name" type="FixedString" value="Skirmisher" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
             <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->

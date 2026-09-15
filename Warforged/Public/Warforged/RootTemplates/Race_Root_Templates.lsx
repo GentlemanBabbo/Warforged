@@ -6,10 +6,9 @@
 			<children>
 				<node id="GameObjects"> <!-- Warforged Base Female -->
 					<attribute id="MapKey" type="FixedString" value="61804a62-abad-4b99-bfeb-59a74ef84c09" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
-					<attribute id="EquipmentRace" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />
 					<attribute id="Name" type="LSString" value="Warforged_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="0c38ae37-9d41-4864-ad48-ed68e4654926" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -28,10 +27,9 @@
 				</node>
 				<node id="GameObjects"> <!-- Warforged Base Male -->
 					<attribute id="MapKey" type="FixedString" value="e95e4b8e-ca4b-43bb-a7ea-c67bf7a09b9d" />
-					<attribute id="EquipmentRace" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />					
 					<attribute id="Name" type="LSString" value="Warforged_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="12c0a711-1459-48e2-a50e-7b792eee0918" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedMale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="85633d7d-0b5a-4c19-926d-f7b566462bf1" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -50,10 +48,9 @@
 				</node>
 				<node id="GameObjects"> <!-- Envoy Sub Race Female -->
 					<attribute id="MapKey" type="FixedString" value="a72898cb-1052-4d25-a762-ca81ebc1e035" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
-					<attribute id="EquipmentRace" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />					
 					<attribute id="Name" type="LSString" value="Envoy_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="24433acc-939b-492a-943e-59033d131f62" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -72,10 +69,9 @@
 				</node>
 				<node id="GameObjects"> <!-- Envoy Sub Race Male -->
 					<attribute id="MapKey" type="FixedString" value="bb4c8208-1e15-4e89-b203-8bb7963fd354" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
-					<attribute id="EquipmentRace" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />					
 					<attribute id="Name" type="LSString" value="Envoy_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="12c0a711-1459-48e2-a50e-7b792eee0918" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedMale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e95e6d81-8ffa-4f63-b16d-19e30c2afe61" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -97,7 +93,7 @@
 					<attribute id="EquipmentRace" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />										
 					<attribute id="Name" type="LSString" value="Juggernaut_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroJuggernautFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="09127e7b-3575-4a1b-a91b-9a102af4da97" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -119,7 +115,7 @@
 					<attribute id="EquipmentRace" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />					
 					<attribute id="Name" type="LSString" value="Juggernaut_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->			
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="12c0a711-1459-48e2-a50e-7b792eee0918" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroJuggernautMale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -138,10 +134,9 @@
 				</node>
 				<node id="GameObjects"> <!-- Skirmisher Sub Race Female -->
 					<attribute id="MapKey" type="FixedString" value="c8d647a3-93af-43e3-98a1-ba142846f0eb" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
-					<attribute id="EquipmentRace" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />					
 					<attribute id="Name" type="LSString" value="Skirmisher_Female_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="9adf7972-dc60-418a-90f0-1387e1ab35d6" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedFemale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="93a81280-2b19-4fc8-9e4c-e46b1ac84fb5" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->
@@ -160,10 +155,9 @@
 				</node>
 				<node id="GameObjects"> <!-- Skirmisher Sub Race Male -->
 					<attribute id="MapKey" type="FixedString" value="898a65f4-f39c-4eb9-8108-92e223b58436" /> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
-					<attribute id="EquipmentRace" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />										
 					<attribute id="Name" type="LSString" value="Skirmisher_Male_Player" /> <!-- Internal name for race, does not affect anything in-game. -->
 					<attribute id="Type" type="FixedString" value="character" /> <!-- Tells the game that this is a Character root template. -->
-					<attribute id="ParentTemplateId" type="FixedString" value="5dd3feb0-89e5-44e9-9467-5d362b556763" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
+					<attribute id="ParentTemplateId" type="FixedString" value="12c0a711-1459-48e2-a50e-7b792eee0918" /> <!-- The parent template for your race. Choosing the race that is most similar to your custom race is a safe bet. -->
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" /> <!-- Gives your race common player actions as options -->
 					<attribute id="Stats" type="FixedString" value="HeroWarforgedMale" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" /> <!-- Tells the game what CharacterVisuals entry to use for the race. -->

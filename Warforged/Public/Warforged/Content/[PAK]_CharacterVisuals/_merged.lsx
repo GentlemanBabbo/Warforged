@@ -19,13 +19,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 									</children>
 								</node>
@@ -54,7 +54,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Standard -->
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="85633d7d-0b5a-4c19-926d-f7b566462bf1" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Player" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -68,13 +68,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -87,7 +87,7 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="50edc298-0c25-4373-ad84-34666694ac4b" />
+							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="" /> 
 						</node>
@@ -123,13 +123,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 									</children>
 								</node>
@@ -158,7 +158,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Envoy -->
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="e95e6d81-8ffa-4f63-b16d-19e30c2afe61" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Envoy" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -172,13 +172,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -191,7 +191,7 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="50edc298-0c25-4373-ad84-34666694ac4b" />
+							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="" /> 
 						</node>
@@ -227,13 +227,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 									</children>
 								</node>
@@ -262,7 +262,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Juggernaut -->
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Juggernaut" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -276,13 +276,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
@@ -295,7 +295,7 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="50edc298-0c25-4373-ad84-34666694ac4b" />
+							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="" /> 
 						</node>
@@ -331,13 +331,13 @@
 											<attribute id="ForcePresetValues" type="bool" value="False" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 									</children>
 								</node>
@@ -366,7 +366,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Skirmisher -->
-					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="e7ba53b5-db9f-4f12-ac79-55969418e7b1" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Skirmisher" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -380,26 +380,26 @@
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
 											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="e00c7318-e5a0-41c6-ab53-d4f7847c89b0" /> <!-- Material UUID for skin color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="06ca12ba-50ae-4029-8c55-56b9e80d3f15" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="06Eyes" />
 											<attribute id="MapKey" type="FixedString" value="06Eyes" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="ed017994-7247-41c6-9388-2d91654cf0dd" /> <!-- Material UUID for eye color. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="5df6822d-bacc-46af-a681-266fe9b55766" />
 										</node>
 										<node id="Object">
 											<attribute id="ForcePresetValues" type="bool" value="True" />
 											<attribute id="GroupName" type="FixedString" value="05Makeup" />
 											<attribute id="MapKey" type="FixedString" value="05Makeup" />
-											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" /> <!-- Material UUID for makeup selection. -->
+											<attribute id="MaterialPresetResource" type="FixedString" value="2c477c0d-15a8-0591-bd94-6acc583666ea" />
 										</node>
 									</children>
 								</node>
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="50edc298-0c25-4373-ad84-34666694ac4b" />
+							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
 							<attribute id="Slot" type="FixedString" value="Head" />
 							<attribute id="VisualResource" type="FixedString" value="" /> 
 						</node>

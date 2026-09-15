@@ -24,19 +24,19 @@ data "Weight" "135"
 
 new entry "Passive_WAR_PoisonResilience"
 type "PassiveData"
-data "DisplayName" ";2"
-data "Description" ";2"
+data "DisplayName" "hb9cc01cabe68472b9443284c51d69c68g188;2"
+data "Description" "h8b7d2f71b38e4f90804d7eddb00e1052258e;2"
 data "Icon" "PassiveFeature_Duergar_DuergarResilience"
 data "Properties" "Highlighted"
 data "Boosts" "Resistance(Poison,Resistant)"
 
 new entry "Passive_WAR_DiseaseImmunity"
 type "PassiveData"
-data "DisplayName" ";2"
-data "Description" ";2"
-data "Icon" "PassiveFeature_Duergar_DuergarResilience"
+data "DisplayName" "h97530b98b91a4d53a963623f6f0bc6fbcde9;2"
+data "Description" "h3868104fca7d4e4cbfe12ec5a35cc91324e6;2"
+data "Icon" "PassiveFeature_DivineHealth"
 data "Properties" "Highlighted"
-data "Boosts" "Resistance(Poison,Resistant)" <!--Switch to Disease Immunity-->
+data "Boosts" "StatusImmunity(SG_Disease)"
 
 <!--Warforged Spells-->
 

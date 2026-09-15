@@ -2,22 +2,51 @@
 <contentList> <!-- This is the file that defines the localization, aka the actual text that shows up in game. -->
 
 	<!--Base race loca-->
-	<content contentuid="" version="1">Warforged</content>
-	<content contentuid="" version="1">The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.</content> 
+	<content contentuid="h23973a6344d7444895a7c697ece4225bad6c" version="1">Warforged</content>
+	<content contentuid="h42da82fe4092476d88d75ac453f9b301e442" version="1">Built to fight in the Last War; the first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.</content> 
 	
 	<!--Subraces loca-->
-	<content contentuid="" version="1">Envoy</content>
-	<content contentuid="" version="1">[Envoy Description]</content>
-	<content contentuid="" version="1">Juggernaut</content> 
-	<content contentuid="" version="1">[Juggernaut Description]</content> 
-	<content contentuid="" version="1">Skirmisher</content>
-	<content contentuid="" version="1">[Skirmisher Description]</content> 
+	<content contentuid="h52e46f93816e43c89815ab6830e6d8130288" version="1">Envoy</content>
+	<content contentuid="ha9a78399b5aa47ad80bf13e95c2a2af12239" version="1">You were designed with a certain specialized function in mind. You might be an assassin, a healer, or an entertainer, to name a few possibilities. Envoys are the rarest of the warforged subraces, and yours could be a unique design.</content>
+	<content contentuid="hd717bcadcd66439d800390959ce06e26864g" version="1">Juggernaut</content> 
+	<content contentuid="hc95be134519e42d2b5e8f4ecc42e0f881c95" version="1">You’re an imposing war machine built for close combat and raw might. You tower over your comrades; juggernaut warforged stand between 6 and 7 feet in height and can weigh up to 450 pounds.</content> 
+	<content contentuid="h18f9bd0037ce4851a5d228f919a340947e00" version="1">Skirmisher</content>
+	<content contentuid="h11c542ab29cd49e381ed8766839749aba55d" version="1">You were built to scout the edges of battle and outmaneuver your enemies. You are lean and designed for speed.</content> 
 	<!--Passives loca-->
-	
+	<content contentuid="hb9cc01cabe68472b9443284c51d69c68g188" version="1">Golem's Poison Resistance</content>
+	<content contentuid="h8b7d2f71b38e4f90804d7eddb00e1052258e" version="1">You have advantage on saving throws against being poisoned, and you have resistance to poison damage.</content>
+	<content contentuid="h97530b98b91a4d53a963623f6f0bc6fbcde9" version="1">Construct's Disease Immunity</content>
+	<content contentuid="h3868104fca7d4e4cbfe12ec5a35cc91324e6" version="1">As a Warforged, you are immune to disease.</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<!--Spells loca-->
-	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<!--Heads loca-->
-	<content contentuid="" version="1">The Mighty</content>
+	<content contentuid="h39e6cfb3c6d248c4ae4d649562e95c78g135" version="1">The Mighty</content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 	<!--Hair loca-->
-	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
 </contentList>
