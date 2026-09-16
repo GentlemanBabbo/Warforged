@@ -58,9 +58,9 @@
                 <node id="CharacterCreationPreset"> <!-- Sub Race Female Standard -->
                     <attribute id="BodyShape" type="uint8" value="0"/> <!-- 0 = Standard -->
                     <attribute id="BodyType" type="uint8" value="1"/> <!-- 1 = Female -->
-                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="GTY_F_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="GTY_F_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="GTY_F_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
                     <attribute id="RootTemplate" type="guid" value="c8d647a3-93af-43e3-98a1-ba142846f0eb"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
@@ -70,9 +70,9 @@
                 <node id="CharacterCreationPreset"> <!-- Sub Race Male Standard -->
                     <attribute id="BodyShape" type="uint8" value="0"/> <!-- 0 = Standard -->
                     <attribute id="BodyType" type="uint8" value="0"/> <!-- 0 = Male -->
-                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
-                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
-                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+                    <attribute id="CloseUpA" type="LSString" value="GTY_M_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="GTY_M_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="GTY_M_Camera_Overview_A"/>
                     <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
                     <attribute id="RootTemplate" type="guid" value="898a65f4-f39c-4eb9-8108-92e223b58436"/> <!-- Root template from Race_Root_Templates.lsf.lsx -->
                     <attribute id="SubRaceUUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->

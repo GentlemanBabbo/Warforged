@@ -3,6 +3,14 @@
       {
         "GTexName": "854a2b758cd848a2a63aa9bbba1782af", 
         "GTS": "Public/Warforged/Assets/VirtualTextures/Warforged_ENVOY.gts" 
+      },
+      {
+        "GTexName": "062a8776393f4eb58d2a400ec4c57a63", 
+        "GTS": "Public/Warforged/Assets/VirtualTextures/Warforged_SKIRMISHER.gts" 
+      },
+      {
+        "GTexName": "1be6e33ccf76456bb2c19c775bcf74cf", 
+        "GTS": "Public/Warforged/Assets/VirtualTextures/Warforged_SKIRMISHER.gts" 
       }
   ]
 }

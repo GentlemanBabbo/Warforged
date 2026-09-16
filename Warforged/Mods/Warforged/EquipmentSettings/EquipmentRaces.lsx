@@ -5,16 +5,40 @@
 		<node id="root">
 			<children>
 				<node id="EquipmentRace">
-					<attribute id="Name" type="FixedString" value="Warforged Strong Female" />
+					<attribute id="Name" type="FixedString" value="Warforged Envoy Female" />
+					<attribute id="Guid" type="guid" value="38e9e2a1-9189-4a6c-88bb-3b29134582d6" />
+					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="CharacterVisual" type="guid" value="24433acc-939b-492a-943e-59033d131f62" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Warforged Envoy Male" />
+					<attribute id="Guid" type="guid" value="56c9efbf-56d2-4a57-9fe8-a4fa80a8c8f8" />
+					<attribute id="DefaultParent" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+					<attribute id="CharacterVisual" type="guid" value="e95e6d81-8ffa-4f63-b16d-19e30c2afe61" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Warforged Juggernaut Female" />
 					<attribute id="Guid" type="guid" value="f683bd6c-083a-4a34-925b-c7f4cb7a03d9" />
 					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
 					<attribute id="CharacterVisual" type="guid" value="09127e7b-3575-4a1b-a91b-9a102af4da97" />
 				</node>
 				<node id="EquipmentRace">
-					<attribute id="Name" type="FixedString" value="Warforged Strong Male" />
+					<attribute id="Name" type="FixedString" value="Warforged Juggernaut Male" />
 					<attribute id="Guid" type="guid" value="e6a41622-04cf-4ec2-bb5b-90306eaaf7b8" />
 					<attribute id="DefaultParent" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="CharacterVisual" type="guid" value="e83fd3bb-eb29-48bd-b362-b87a6865aca2" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Warforged Skirmisher Female" />
+					<attribute id="Guid" type="guid" value="597f1b8b-2e82-4991-be5b-0fdbf8ab9923" />
+					<attribute id="DefaultParent" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="CharacterVisual" type="guid" value="93a81280-2b19-4fc8-9e4c-e46b1ac84fb5" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="FixedString" value="Warforged Skirmisher Male" />
+					<attribute id="Guid" type="guid" value="c2389a9a-0210-4480-8657-b6644ca84fc7" />
+					<attribute id="DefaultParent" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+					<attribute id="CharacterVisual" type="guid" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" />
 				</node>
 			</children>
 		</node>

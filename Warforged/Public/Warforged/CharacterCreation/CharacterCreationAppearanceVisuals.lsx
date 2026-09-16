@@ -5,7 +5,8 @@
         <node id="root">
             <children>
 		<!--Male Warforged Heads-->
-				<node id="CharacterCreationAppearanceVisual"> Warforged M - A
+				<!--Envoy Heads-->
+                <node id="CharacterCreationAppearanceVisual"> Warforged M - A
 					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
 					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
 			    	<attribute id="DisplayName" type="TranslatedString" handle="h39e6cfb3c6d248c4ae4d649562e95c78g135" version="1"/> 
@@ -14,14 +15,49 @@
 					<attribute id="SlotName" type="FixedString" value="Head"/>
 					<attribute id="UUID" type="guid" value="f3e4c698-76b4-409f-86d9-6e8e9e2d0407"/>
 					<attribute id="VisualResource" type="guid" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74"/>
+    	            <attribute id="RootTemplate" type="guid" value="bb4c8208-1e15-4e89-b203-8bb7963fd354" />	
+
+				</node>
+                <!--Juggernaut Heads-->
+
+                <!--Skirmisher Heads-->
+                <node id="CharacterCreationAppearanceVisual"> Warforged M - A
+					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
+					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
+			    	<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
+					<attribute id="IconIdOverride" type="FixedString" value=""/>
+          			<attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/>
+					<attribute id="SlotName" type="FixedString" value="Head"/>
+					<attribute id="UUID" type="guid" value="66d34525-8061-4628-93de-8d73a96ae275"/>
+					<attribute id="VisualResource" type="guid" value="b56b16e2-9f8c-430b-b0d2-c9abf1034373"/>
+                    <attribute id="RootTemplate" type="guid" value="898a65f4-f39c-4eb9-8108-92e223b58436" />	
+
 				</node>
 		<!--Female Warforged Heads-->
+                <!--Envoy Heads-->
+                
+                <!--Juggernaut Heads-->
 
+                <!--Skirmisher Heads-->
 		<!--Beards-->
+                <!--Envoy Heads-->
+                
+                <!--Juggernaut Heads-->
 
+                <!--Skirmisher Heads-->
 		<!--Hair-->
 				<!--male-->
+                <!--Envoy Heads-->
+                
+                <!--Juggernaut Heads-->
+
+                <!--Skirmisher Heads-->
         		<!--female-->
+                <!--Envoy Heads-->
+                
+                <!--Juggernaut Heads-->
+
+                <!--Skirmisher Heads-->
           
     <!--Genitals-->
         <!--Fake Genitals-->

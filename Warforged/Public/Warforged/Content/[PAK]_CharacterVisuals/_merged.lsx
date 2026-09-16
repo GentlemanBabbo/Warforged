@@ -87,9 +87,9 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="" /> 
+							<attribute id="VisualResource" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" /> 
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -191,9 +191,9 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="" /> 
+							<attribute id="VisualResource" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" /> 
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -295,9 +295,9 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="" /> 
+							<attribute id="VisualResource" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" /> 
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -317,7 +317,7 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Female Skirmisher -->
-					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BaseVisual" type="FixedString" value="23418296-f7fa-66e9-b986-466a12707c1a" /> <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
 					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" /> <!-- Connects to the merged file entry's ID field for the body's mesh -->
 					<attribute id="ID" type="FixedString" value="93a81280-2b19-4fc8-9e4c-e46b1ac84fb5" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID -->
 					<attribute id="Name" type="LSString" value="Warforged_Female_Skirmisher" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
@@ -366,8 +366,8 @@
 					</children>
 				</node>
 				<node id="Resource"> <!-- Race Male Skirmisher -->
-					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
-					<attribute id="BodySetVisual" type="FixedString" value="8e79a472-c9d7-4942-a8af-08e3f3b49529" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
+					<attribute id="BaseVisual" type="FixedString" value="e6fa4c4b-8f7d-52d0-78d1-81405baf735f" />  <!-- References the animation set for this body type (Hum, Elf, Gith, etc. animation sets). Note that animation sets from bodies that are typically very different sizes will not transfer over well. -->
+					<attribute id="BodySetVisual" type="FixedString" value="997f0956-33d2-46e2-af1c-a4888ca8598f" /> <!-- Connects to the merged file entry's ID field for the body's mesh. -->
 					<attribute id="ID" type="FixedString" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" /> <!-- Connects to the Root Template UUID for the CharacterVisualResourceID. -->
 					<attribute id="Name" type="LSString" value="Warforged_Male_Skirmisher" /> <!-- Internal name for the race / bodytype combination. Does not affect anything in-game. -->
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" /> <!-- Indicates whether equipment will show on this player entry. -->
@@ -399,9 +399,9 @@
 							</children>
 						</node>
 						<node id="Slots"> <!-- Sets the default meshes for each slot for the body type. -->
-							<attribute id="Bone" type="FixedString" value="81decf2d-43b5-4002-9ac0-4dc717cd7d74" />
+							<attribute id="Bone" type="FixedString" value="" />
 							<attribute id="Slot" type="FixedString" value="Head" />
-							<attribute id="VisualResource" type="FixedString" value="" /> 
+							<attribute id="VisualResource" type="FixedString" value="b56b16e2-9f8c-430b-b0d2-c9abf1034373" /> 
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
