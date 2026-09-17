@@ -2153,17 +2153,6 @@
             <attribute id="RaceSoundSwitch" type="FixedString" value="Human" /> <!-- Sound made when selecting the sub race -->
             <attribute id="UUID" type="guid" value="65b1440d-d446-4b74-bc90-165f645033db" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
         </node>
-        <node id="Race"> <!-- Sub Race -->
-            <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> <!-- Display name for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="Description" type="TranslatedString" handle="" version="1" /> <!-- Description for the sub race, links to Community_Race_Template.loca.xml -->
-            <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f" /> <!-- Humanoid display type (what precisely does this do?) -->
-            <attribute id="Name" type="FixedString" value="Anvilborn" /> <!-- Internal name for sub race, doesn't affect anything in-game -->
-            <attribute id="ParentGuid" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870" /> <!-- Custom race Parent ID, this connects the entry to the original custom race entry above -->
-            <attribute id="ProgressionTableUUID" type="guid" value="66dd233a-f08e-4ae1-85aa-7109aee2a29d" /> <!-- Sub Race Progression table, regenerate before releasing mod! -->
-            <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Dwarves"/> <!-- Default underwear for the sub race -->
-            <attribute id="RaceSoundSwitch" type="FixedString" value="Dwarf" /> <!-- Sound made when selecting the sub race -->
-            <attribute id="UUID" type="guid" value="1f8a87d4-5b1e-4ff2-a4d3-4f8b71097aa5" /> <!-- Unique Sub Race UUID, regenerate before releasing mod! -->
-        </node>
       </children>
     </node>
   </region>
