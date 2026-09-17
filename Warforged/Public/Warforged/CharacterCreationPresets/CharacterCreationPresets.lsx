@@ -79,6 +79,31 @@
                     <attribute id="UUID" type="guid" value="2728f1e0-8251-4dee-a26c-936a1f48294d"/> <!-- UUID that tells the game this is its own unique object. Regenerate this before publishing the mod! -->
                     <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> <!-- Sets the lines used when the player previews the voice in CC. Leaving it at the default is recommended. -->
                 </node>
+<!--Anvilborn-->
+				<node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/> 0 means smol, 1 means stronk
+                    <attribute id="BodyType" type="uint8" value="1"/> 1 means wimmin, 0 means man
+                    <attribute id="CloseUpA" type="LSString" value="DWR_F_Camera_Closeup_A"/> do not touch these three, cameras for in CC
+                    <attribute id="CloseUpB" type="LSString" value="DWR_F_Camera_Closeup_B"/> do not touch these three, cameras for in CC
+                    <attribute id="Overview" type="LSString" value="DWR_F_Camera_Overview_A"/>  do not touch these three, cameras for in CC
+                    <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="dd96eb70-0d63-4446-bc2c-07df41432d22"/>
+                    <attribute id="SubRaceUUID" type="guid" value="1f8a87d4-5b1e-4ff2-a4d3-4f8b71097aa5"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
+                    <attribute id="UUID" type="guid" value="51e0446f-fb16-4dda-ac0d-5381f4179f7a"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/> do not touch
+        </node>
+				<node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="CloseUpA" type="LSString" value="DWR_M_Camera_Closeup_A"/>
+                    <attribute id="CloseUpB" type="LSString" value="DWR_M_Camera_Closeup_B"/>
+                    <attribute id="Overview" type="LSString" value="DWR_M_Camera_Overview_A"/>
+                    <attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/> <!-- Race ID from races.lsx -->
+                    <attribute id="RootTemplate" type="guid" value="ae6c1ca0-8ca2-476a-92ed-89e4f4a5a5d9"/>
+                    <attribute id="SubRaceUUID" type="guid" value="1f8a87d4-5b1e-4ff2-a4d3-4f8b71097aa5"/> <!-- Subrace ID from races.lsx, 00000000-0000-0000-0000-000000000000 if no subrace -->
+                    <attribute id="UUID" type="guid" value="919c90a4-c754-46af-b557-8b01589e8e64"/>
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
             </children>
         </node>
     </region>

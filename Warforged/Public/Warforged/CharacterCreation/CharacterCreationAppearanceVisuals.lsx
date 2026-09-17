@@ -31,20 +31,25 @@
 					<attribute id="UUID" type="guid" value="66d34525-8061-4628-93de-8d73a96ae275"/>
 					<attribute id="VisualResource" type="guid" value="b56b16e2-9f8c-430b-b0d2-c9abf1034373"/>
                     <attribute id="RootTemplate" type="guid" value="898a65f4-f39c-4eb9-8108-92e223b58436" />	
-
 				</node>
+
+                <!--Anvilborn-->
 		<!--Female Warforged Heads-->
                 <!--Envoy Heads-->
                 
                 <!--Juggernaut Heads-->
 
                 <!--Skirmisher Heads-->
+
+                <!--Anvilborn Heads-->
 		<!--Beards-->
                 <!--Envoy Heads-->
                 
                 <!--Juggernaut Heads-->
 
                 <!--Skirmisher Heads-->
+
+                <!--Anvilborn Heads-->
 		<!--Hair-->
 				<!--male-->
                 <!--Envoy Heads-->
@@ -52,12 +57,16 @@
                 <!--Juggernaut Heads-->
 
                 <!--Skirmisher Heads-->
+
+                <!--Anvilborn Heads-->
         		<!--female-->
                 <!--Envoy Heads-->
                 
                 <!--Juggernaut Heads-->
 
                 <!--Skirmisher Heads-->
+
+                <!--Anvilborn Heads-->
           
     <!--Genitals-->
         <!--Fake Genitals-->

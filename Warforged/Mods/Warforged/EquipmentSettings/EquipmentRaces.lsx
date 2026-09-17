@@ -41,11 +41,17 @@
 					<attribute id="CharacterVisual" type="31" value="cb5cfa20-c7ec-4943-b732-1f6906a6b93d" />
 				</node>
 				<node id="EquipmentRace">
-                    <attribute id="Name" type="22" value="TIF_TRM1" />
-                    <attribute id="Guid" type="31" value="9ef286ca-bad9-4189-88c4-658210117d07" />
-                    <attribute id="DefaultParent" type="31" value="cf421f4e-107b-4ae6-86aa-090419c624a5" />
-                    <attribute id="CharacterVisual" type="31" value="d7577fed-38b0-f4d6-add2-24b72074de27" />
-                </node>
+					<attribute id="Name" type="22" value="Warforged Anvilborn Female" />
+					<attribute id="Guid" type="31" value="9c5604d3-81a3-4c06-8b9c-b25575502225" />
+					<attribute id="DefaultParent" type="31" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+					<attribute id="CharacterVisual" type="31" value="a51bf425-a919-4604-92ce-5e2b7cd890de" />
+				</node>
+				<node id="EquipmentRace">
+					<attribute id="Name" type="22" value="Warforged Anvilborn Male" />
+					<attribute id="Guid" type="31" value="edb03aa1-3e40-4479-8803-13979cbf4150" />
+					<attribute id="DefaultParent" type="31" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+					<attribute id="CharacterVisual" type="31" value="43b3bcdf-01ae-4b9d-be05-cf87767aa987" />
+				</node>	
 			</children>
 		</node>
 	</region>

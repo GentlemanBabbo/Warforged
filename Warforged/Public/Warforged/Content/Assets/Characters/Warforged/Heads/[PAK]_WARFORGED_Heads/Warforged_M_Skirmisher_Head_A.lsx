@@ -1571,7 +1571,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
-					<attribute id="ID" type="FixedString" value="7e8c839b-f274-44c8-8108-830dd79d126d" />
+					<attribute id="ID" type="FixedString" value="f11bbe7f-ceac-42d9-80e4-9119708762bd" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="Warforged_M_Skirmisher_Head_A" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/CHAR_Skin_Head_v3.lsf" />
@@ -2293,7 +2293,7 @@
 						<node id="Base" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="7e8c839b-f274-44c8-8108-830dd79d126d" />
+							<attribute id="MaterialID" type="FixedString" value="f11bbe7f-ceac-42d9-80e4-9119708762bd" />
 							<attribute id="ObjectID" type="FixedString" value="WARFORGED_M_SKIRMISHER_HEAD_A.WAR_M_Skirmisher_Head_A_Mesh.0" />
 						</node>
 						<node id="Objects">
