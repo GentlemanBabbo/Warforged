@@ -32,19 +32,6 @@
 					<attribute id="VisualResource" type="guid" value="b56b16e2-9f8c-430b-b0d2-c9abf1034373"/>
                     <attribute id="RootTemplate" type="guid" value="898a65f4-f39c-4eb9-8108-92e223b58436" />	
 				</node>
-
-                <!--Anvilborn-->
-                <node id="CharacterCreationAppearanceVisual"> Warforged M - A
-					<attribute id="BodyShape" type="uint8" value="0"/> <!--0 = Standard 1 = Tall Muscular -->
-					<attribute id="BodyType" type="uint8" value="0"/> <!--0 = Masc 1 = Fem -->
-			    	<attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> 
-					<attribute id="IconIdOverride" type="FixedString" value=""/>
-          			<attribute id="RaceUUID" type="guid" value="516547d0-4dd9-4085-8ac5-95f84c5e7870"/>
-					<attribute id="SlotName" type="FixedString" value="Head"/>
-					<attribute id="UUID" type="guid" value="5e7a199d-9061-45fe-9606-07634a107466"/>
-					<attribute id="VisualResource" type="guid" value=""/>
-                    <attribute id="RootTemplate" type="guid" value="ae6c1ca0-8ca2-476a-92ed-89e4f4a5a5d9" />	
-				</node>
 		<!--Female Warforged Heads-->
                 <!--Envoy Heads-->
                 
@@ -52,7 +39,6 @@
 
                 <!--Skirmisher Heads-->
 
-                <!--Anvilborn Heads-->
 		<!--Beards-->
                 <!--Envoy Heads-->
                 
@@ -60,7 +46,6 @@
 
                 <!--Skirmisher Heads-->
 
-                <!--Anvilborn Heads-->
 		<!--Hair-->
 				<!--male-->
                 <!--Envoy Heads-->
@@ -69,7 +54,6 @@
 
                 <!--Skirmisher Heads-->
 
-                <!--Anvilborn Heads-->
         		<!--female-->
                 <!--Envoy Heads-->
                 
@@ -77,7 +61,6 @@
 
                 <!--Skirmisher Heads-->
 
-                <!--Anvilborn Heads-->
           
     <!--Genitals-->
         <!--Fake Genitals-->
